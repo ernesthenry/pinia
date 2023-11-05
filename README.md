@@ -1,6 +1,6 @@
-# Pinia, The Enjoyable Vue Store 
+## Pinia, The Enjoyable Vue Store 
 
-## How to Use
+### Steps to replicate
 
 ```
 npx degit  vueschool/pinia-course-boilerplate 
