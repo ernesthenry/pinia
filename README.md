@@ -1,6 +1,4 @@
 # Pinia, The Enjoyable Vue Store 
-## Boilerplate Code
-
 
 ## How to Use
 
